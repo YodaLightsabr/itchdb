@@ -1,6 +1,8 @@
 # ItchDB
 ItchDB is a Scratch Cloud Interface for making HTTP requests, managing a Cloud Database, and doing various things with the Scratch API. It allows for easy setup, but rich customizability. With just 4 lines of code, you can set up ItchDB in the Repl.it environment as an always-online cloud solution.
 
+NOTE: If it's confusing, feel free to contact me on Discord at YodaLightsabr#6565.
+
 ## Documentation
 #### `Itch.Database(config)`
 Creates a new Itch Database using the specified configuration object. Example:
